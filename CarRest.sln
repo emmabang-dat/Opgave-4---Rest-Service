@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRest", "CarRest\CarRest.csproj", "{59150045-D91A-4108-8610-7F45D5A17519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRestTests", "CarRestTests\CarRestTests.csproj", "{749A5466-6349-451F-8186-2DD545098E4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59150045-D91A-4108-8610-7F45D5A17519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59150045-D91A-4108-8610-7F45D5A17519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59150045-D91A-4108-8610-7F45D5A17519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59150045-D91A-4108-8610-7F45D5A17519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749A5466-6349-451F-8186-2DD545098E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749A5466-6349-451F-8186-2DD545098E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749A5466-6349-451F-8186-2DD545098E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749A5466-6349-451F-8186-2DD545098E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E28D8F4-5F94-45DE-A0A1-4242B5F74A57}
+	EndGlobalSection
+EndGlobal
